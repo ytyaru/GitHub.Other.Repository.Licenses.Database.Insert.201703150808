@@ -8,14 +8,6 @@
 * [Python 3.4.3](https://www.python.org/downloads/release/python-343/)
 * [SQLite3](https://www.sqlite.org/index.html) 3.8.2
 
-使用ライブラリは以下。感謝。
-
-Library|License|Copyright
--------|-------|---------
-[pytz](https://github.com/newvem/pytz)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2003-2005 Stuart Bishop <stuart@stuartbishop.net>](https://github.com/newvem/pytz/blob/master/LICENSE.txt)
-[requests](http://requests-docs-ja.readthedocs.io/en/latest/)|[Requests License](http://docs.python-requests.org/en/master/user/intro/#requests-license), [Apache-2.0](http://opensource.org/licenses/Apache-2.0)|[Copyright 2017 Kenneth Reitz](http://docs.python-requests.org/en/master/user/intro/#requests-license)
-[dataset](https://dataset.readthedocs.io/en/latest/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2013, Open Knowledge Foundation, Friedrich Lindenberg, Gregor Aisch](https://github.com/pudo/dataset/blob/master/LICENSE.txt)
-
 ## WebService
 
 * [GitHub](https://github.com/)
@@ -130,3 +122,12 @@ google,google-api-python-client,other
 このソフトウェアはCC0ライセンスである。
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
+
+使用ライブラリは以下。感謝。
+
+Library|License|Copyright
+-------|-------|---------
+[pytz](https://github.com/newvem/pytz)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2003-2005 Stuart Bishop <stuart@stuartbishop.net>](https://github.com/newvem/pytz/blob/master/LICENSE.txt)
+[requests](http://requests-docs-ja.readthedocs.io/en/latest/)|[Requests License](http://docs.python-requests.org/en/master/user/intro/#requests-license), [Apache-2.0](http://opensource.org/licenses/Apache-2.0)|[Copyright 2017 Kenneth Reitz](http://docs.python-requests.org/en/master/user/intro/#requests-license)
+[dataset](https://dataset.readthedocs.io/en/latest/)|[MIT](https://opensource.org/licenses/MIT)|[Copyright (c) 2013, Open Knowledge Foundation, Friedrich Lindenberg, Gregor Aisch](https://github.com/pudo/dataset/blob/master/LICENSE.txt)
+
